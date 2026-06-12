@@ -1,3 +1,4 @@
+
 About me
 
 I'm currently learning JavaScript and building my skills in web development. I enjoy learning new technologies and improving my problem-solving abilities through coding projects.
@@ -23,4 +24,4 @@ I enjoy learning new things and challenging myself with technology.
 
 How to Reach Me
 
-GitHub: https://github.com/your-destinywambui
+GitHub: https://github.com/your-destinywambui-ui
