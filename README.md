@@ -23,4 +23,4 @@ I enjoy learning new things and challenging myself with technology.
 
 How to Reach Me
 
-GitHub: https://github.com/your-destinywambui
+GitHub: https://github.com/your-destinywambui-ui
