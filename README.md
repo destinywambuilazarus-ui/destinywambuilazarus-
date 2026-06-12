@@ -10,11 +10,6 @@ Skills I'm Building
 
  HTML
 
-Current Projects
-
-JavaScript practice exercises
-
-GitHub profile customization
 
 Goals
 
@@ -25,6 +20,7 @@ Contribute to open-source projects
 Fun Fact
 
 I enjoy learning new things and challenging myself with technology.
+
 How to Reach Me
 
 GitHub: https://github.com/your-destinywambui
