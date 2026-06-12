@@ -3,6 +3,7 @@ About me
 I'm currently learning JavaScript and building my skills in web development. I enjoy learning new technologies and improving my problem-solving abilities through coding projects.
 
 Skills I'm Building
+
  JavaScript 
 
  Git and GitHub
